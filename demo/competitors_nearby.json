@@ -1,0 +1,456 @@
+{
+    "status": 200,
+    "count": 350,
+    "places": [
+        {
+            "place_id": "ChIJjy1xNP_yaS4R18j5r_JAT48",
+            "coordinates": {
+                "latitude": -6.2613312,
+                "longitude": 106.86691809999999
+            },
+            "top_average_popularity": 100.0,
+            "main_category": "Kafe dan Kedai Kopi"
+        },
+        {
+            "place_id": "ChIJBzDYxvzzaS4RBIZ1IpCFC3g",
+            "coordinates": {
+                "latitude": -6.2658857,
+                "longitude": 106.87101969999999
+            },
+            "top_average_popularity": 99.14285714285714,
+            "main_category": "Kafe dan Kedai Kopi"
+        },
+        {
+            "place_id": "ChIJy5JOS3HzaS4RMIWQdbEMxf4",
+            "coordinates": {
+                "latitude": -6.272829799999999,
+                "longitude": 106.86723769999999
+            },
+            "top_average_popularity": 91.14285714285714,
+            "main_category": "Kafe dan Kedai Kopi"
+        },
+        {
+            "place_id": "ChIJxYVyi1nyaS4RlqvrjtIk130",
+            "coordinates": {
+                "latitude": -6.2687155,
+                "longitude": 106.8595158
+            },
+            "top_average_popularity": 90.71428571428571,
+            "main_category": "Kafe dan Kedai Kopi"
+        },
+        {
+            "place_id": "ChIJGc9j1HLzaS4R6jaXMPnZ8QU",
+            "coordinates": {
+                "latitude": -6.2760082,
+                "longitude": 106.876784
+            },
+            "top_average_popularity": 90.71428571428571,
+            "main_category": "Kafe dan Kedai Kopi"
+        },
+        {
+            "place_id": "ChIJw_F_ImDzaS4RnQUoJYg16MU",
+            "coordinates": {
+                "latitude": -6.2694141,
+                "longitude": 106.8763451
+            },
+            "top_average_popularity": 90.14285714285714,
+            "main_category": "Restoran"
+        },
+        {
+            "place_id": "ChIJO712dg_zaS4Rofp4PCCwbII",
+            "coordinates": {
+                "latitude": -6.2455039999999995,
+                "longitude": 106.873593
+            },
+            "top_average_popularity": 89.6,
+            "main_category": "Kafe dan Kedai Kopi"
+        },
+        {
+            "place_id": "ChIJUXyCManzaS4RtinpvkHotlQ",
+            "coordinates": {
+                "latitude": -6.2394063,
+                "longitude": 106.8765603
+            },
+            "top_average_popularity": 88.42857142857143,
+            "main_category": "Kafe dan Kedai Kopi"
+        },
+        {
+            "place_id": "ChIJBQ-5kW3zaS4Rif0-LMcdA-g",
+            "coordinates": {
+                "latitude": -6.2366386,
+                "longitude": 106.8734867
+            },
+            "top_average_popularity": 87.85714285714286,
+            "main_category": "Restoran"
+        },
+        {
+            "place_id": "ChIJq19a01bzaS4Rc0uWM3wG7kg",
+            "coordinates": {
+                "latitude": -6.2769257,
+                "longitude": 106.8551889
+            },
+            "top_average_popularity": 87.14285714285714,
+            "main_category": "Kafe dan Kedai Kopi"
+        },
+        {
+            "place_id": "ChIJW2EwrknyaS4RQZoo8Iq5760",
+            "coordinates": {
+                "latitude": -6.2651439,
+                "longitude": 106.8441543
+            },
+            "top_average_popularity": 86.71428571428571,
+            "main_category": "Kafe dan Kedai Kopi"
+        },
+        {
+            "place_id": "ChIJ1aqibOTyaS4RSta1lqfB6nw",
+            "coordinates": {
+                "latitude": -6.2623492999999995,
+                "longitude": 106.8812028
+            },
+            "top_average_popularity": 86.42857142857143,
+            "main_category": "Restoran"
+        },
+        {
+            "place_id": "ChIJ1Zl4z6DzaS4RxQCnTGgusKg",
+            "coordinates": {
+                "latitude": -6.2767710999999995,
+                "longitude": 106.86067159999999
+            },
+            "top_average_popularity": 86.42857142857143,
+            "main_category": "Kafe dan Kedai Kopi"
+        },
+        {
+            "place_id": "ChIJATo5iD_yaS4RTQJFgch6t3o",
+            "coordinates": {
+                "latitude": -6.2762271,
+                "longitude": 106.84139169999999
+            },
+            "top_average_popularity": 86.0,
+            "main_category": "Restoran"
+        },
+        {
+            "place_id": "ChIJ0SbW5rjzaS4R4mXsz-GoJ4E",
+            "coordinates": {
+                "latitude": -6.2844104,
+                "longitude": 106.8603838
+            },
+            "top_average_popularity": 85.85714285714286,
+            "main_category": "Kafe dan Kedai Kopi"
+        },
+        {
+            "place_id": "ChIJCZUJYMrzaS4RrnS7uUfExFo",
+            "coordinates": {
+                "latitude": -6.2721043,
+                "longitude": 106.84817939999999
+            },
+            "top_average_popularity": 85.42857142857143,
+            "main_category": "Kafe dan Kedai Kopi"
+        },
+        {
+            "place_id": "ChIJAbgIKQrzaS4RgSA1dffSKZc",
+            "coordinates": {
+                "latitude": -6.276751,
+                "longitude": 106.85537099999999
+            },
+            "top_average_popularity": 84.71428571428571,
+            "main_category": "Kafe dan Kedai Kopi"
+        },
+        {
+            "place_id": "ChIJp9nOcVzyaS4RFBq-6Vd5vMc",
+            "coordinates": {
+                "latitude": -6.2731628,
+                "longitude": 106.85717969999999
+            },
+            "top_average_popularity": 84.28571428571429,
+            "main_category": "Restoran"
+        },
+        {
+            "place_id": "ChIJpYo_R-3taS4RhRAlj9MzL3M",
+            "coordinates": {
+                "latitude": -6.3031611,
+                "longitude": 106.88523749999999
+            },
+            "top_average_popularity": 84.14285714285714,
+            "main_category": "Restoran"
+        },
+        {
+            "place_id": "ChIJ2XDrs2fyaS4Rayt7SYelRck",
+            "coordinates": {
+                "latitude": -6.2796951,
+                "longitude": 106.85515199999999
+            },
+            "top_average_popularity": 83.28571428571429,
+            "main_category": "Kafe dan Kedai Kopi"
+        },
+        {
+            "place_id": "ChIJaxJN5xDzaS4RWMD72EzCOH4",
+            "coordinates": {
+                "latitude": -6.285270499999999,
+                "longitude": 106.84304829999999
+            },
+            "top_average_popularity": 83.14285714285714,
+            "main_category": "Toko Makanan dan Minuman"
+        },
+        {
+            "place_id": "ChIJMRVQpEbyaS4RCVAVYdiZLEI",
+            "coordinates": {
+                "latitude": -6.272044999999999,
+                "longitude": 106.84669149999999
+            },
+            "top_average_popularity": 83.0,
+            "main_category": "Restoran"
+        },
+        {
+            "place_id": "ChIJw_keb67zaS4RI-Z3DerXEr4",
+            "coordinates": {
+                "latitude": -6.251133599999999,
+                "longitude": 106.85535329999999
+            },
+            "top_average_popularity": 82.28571428571429,
+            "main_category": "Kafe dan Kedai Kopi"
+        },
+        {
+            "place_id": "ChIJL7CEWFfyaS4RJKM6sgeZ4mk",
+            "coordinates": {
+                "latitude": -6.267279599999999,
+                "longitude": 106.8601281
+            },
+            "top_average_popularity": 82.0,
+            "main_category": "Restoran"
+        },
+        {
+            "place_id": "ChIJZRhjMmvzaS4RrWuq19k_7Ik",
+            "coordinates": {
+                "latitude": -6.2427909,
+                "longitude": 106.873897
+            },
+            "top_average_popularity": 81.28571428571429,
+            "main_category": "Kafe dan Kedai Kopi"
+        },
+        {
+            "place_id": "ChIJUw0_9IzzaS4RAv08wythg3I",
+            "coordinates": {
+                "latitude": -6.2676232,
+                "longitude": 106.8791598
+            },
+            "top_average_popularity": 80.42857142857143,
+            "main_category": "Restoran"
+        },
+        {
+            "place_id": "ChIJCd9NOYzyaS4Rva812BfnIxU",
+            "coordinates": {
+                "latitude": -6.281130999999999,
+                "longitude": 106.872807
+            },
+            "top_average_popularity": 80.42857142857143,
+            "main_category": "Kafe dan Kedai Kopi"
+        },
+        {
+            "place_id": "ChIJAxml5HryaS4RasiFwwBm1u0",
+            "coordinates": {
+                "latitude": -6.2897684,
+                "longitude": 106.8557735
+            },
+            "top_average_popularity": 80.0,
+            "main_category": "Restoran"
+        },
+        {
+            "place_id": "ChIJvSXfHQrzaS4R08O8WcCz-zk",
+            "coordinates": {
+                "latitude": -6.2760701,
+                "longitude": 106.87605669999999
+            },
+            "top_average_popularity": 80.0,
+            "main_category": "Kafe dan Kedai Kopi"
+        },
+        {
+            "place_id": "ChIJPV2QUCrzaS4Ruva8lq2upIo",
+            "coordinates": {
+                "latitude": -6.2754635,
+                "longitude": 106.856921
+            },
+            "top_average_popularity": 79.85714285714286,
+            "main_category": "Kafe dan Kedai Kopi"
+        },
+        {
+            "place_id": "ChIJhe9W_0bzaS4Rui5l_dZjfjc",
+            "coordinates": {
+                "latitude": -6.2649006,
+                "longitude": 106.8752944
+            },
+            "top_average_popularity": 78.28571428571429,
+            "main_category": "Lainnya"
+        },
+        {
+            "place_id": "ChIJfQpIg6PzaS4RFnWY1-AJHS8",
+            "coordinates": {
+                "latitude": -6.270833,
+                "longitude": 106.868055
+            },
+            "top_average_popularity": 77.85714285714286,
+            "main_category": "Restoran"
+        },
+        {
+            "place_id": "ChIJU04kaH_zaS4RKcxcGEF5rwM",
+            "coordinates": {
+                "latitude": -6.2868219,
+                "longitude": 106.8612543
+            },
+            "top_average_popularity": 77.14285714285714,
+            "main_category": "Kafe dan Kedai Kopi"
+        },
+        {
+            "place_id": "ChIJif9AD-LzaS4R25ZI0Hp6_mQ",
+            "coordinates": {
+                "latitude": -6.242909099999999,
+                "longitude": 106.8560133
+            },
+            "top_average_popularity": 76.85714285714286,
+            "main_category": "Kafe dan Kedai Kopi"
+        },
+        {
+            "place_id": "ChIJ7Vy1JmTzaS4RUbKIPwzwchk",
+            "coordinates": {
+                "latitude": -6.2953149999999996,
+                "longitude": 106.890008
+            },
+            "top_average_popularity": 76.83333333333333,
+            "main_category": "Bar dan Lounge"
+        },
+        {
+            "place_id": "ChIJSQAAXynzaS4Rdi1hJyXnwFg",
+            "coordinates": {
+                "latitude": -6.2513079,
+                "longitude": 106.8547452
+            },
+            "top_average_popularity": 76.71428571428571,
+            "main_category": "Kafe dan Kedai Kopi"
+        },
+        {
+            "place_id": "ChIJ129YfLTtaS4RXDTMAz2eDxg",
+            "coordinates": {
+                "latitude": -6.2998008,
+                "longitude": 106.8589033
+            },
+            "top_average_popularity": 76.57142857142857,
+            "main_category": "Kafe dan Kedai Kopi"
+        },
+        {
+            "place_id": "ChIJGWNHZhbzaS4RBJb9lwZuDrA",
+            "coordinates": {
+                "latitude": -6.2619131999999995,
+                "longitude": 106.8859469
+            },
+            "top_average_popularity": 76.5,
+            "main_category": "Kafe dan Kedai Kopi"
+        },
+        {
+            "place_id": "ChIJfaYJuYDtaS4RBjcZknTJ0pk",
+            "coordinates": {
+                "latitude": -6.2987841,
+                "longitude": 106.8609295
+            },
+            "top_average_popularity": 76.14285714285714,
+            "main_category": "Kafe dan Kedai Kopi"
+        },
+        {
+            "place_id": "ChIJhyfja4zzaS4Rpww71OiDKxo",
+            "coordinates": {
+                "latitude": -6.2367292999999995,
+                "longitude": 106.8731037
+            },
+            "top_average_popularity": 76.14285714285714,
+            "main_category": "Restoran"
+        },
+        {
+            "place_id": "ChIJm7zVRVnyaS4RksGGDyUgm4Y",
+            "coordinates": {
+                "latitude": -6.271641,
+                "longitude": 106.86020099999999
+            },
+            "top_average_popularity": 76.0,
+            "main_category": "Kafe dan Kedai Kopi"
+        },
+        {
+            "place_id": "ChIJ9X7kHQ7zaS4RO0qu0MpCrIw",
+            "coordinates": {
+                "latitude": -6.2886827,
+                "longitude": 106.85870609999999
+            },
+            "top_average_popularity": 75.42857142857143,
+            "main_category": "Kafe dan Kedai Kopi"
+        },
+        {
+            "place_id": "ChIJ8ZlJE3_yaS4Rx1So0-ceLxU",
+            "coordinates": {
+                "latitude": -6.296596999999999,
+                "longitude": 106.861199
+            },
+            "top_average_popularity": 75.16666666666667,
+            "main_category": "Kafe dan Kedai Kopi"
+        },
+        {
+            "place_id": "ChIJfT5SL0jzaS4RNxvtEQ9Ca9c",
+            "coordinates": {
+                "latitude": -6.2689812,
+                "longitude": 106.8593013
+            },
+            "top_average_popularity": 75.14285714285714,
+            "main_category": "Kafe dan Kedai Kopi"
+        },
+        {
+            "place_id": "ChIJxTIAC7XzaS4Reg9RHPJBbsg",
+            "coordinates": {
+                "latitude": -6.2751855999999995,
+                "longitude": 106.87680499999999
+            },
+            "top_average_popularity": 74.71428571428571,
+            "main_category": "Lainnya"
+        },
+        {
+            "place_id": "ChIJ83hQaO7yaS4Rt7ZM-M2JFOk",
+            "coordinates": {
+                "latitude": -6.2705161,
+                "longitude": 106.87889799999999
+            },
+            "top_average_popularity": 74.28571428571429,
+            "main_category": "Kafe dan Kedai Kopi"
+        },
+        {
+            "place_id": "ChIJ40cEyl7zaS4Riho0i59pUwQ",
+            "coordinates": {
+                "latitude": -6.259621699999999,
+                "longitude": 106.8643084
+            },
+            "top_average_popularity": 73.0,
+            "main_category": "Kafe dan Kedai Kopi"
+        },
+        {
+            "place_id": "ChIJ29D1NYPzaS4RljOEhWFeQ04",
+            "coordinates": {
+                "latitude": -6.2524383,
+                "longitude": 106.9041862
+            },
+            "top_average_popularity": 72.71428571428571,
+            "main_category": "Kafe dan Kedai Kopi"
+        },
+        {
+            "place_id": "ChIJN4qtnEnzaS4RMIt5EXc6duM",
+            "coordinates": {
+                "latitude": -6.255372599999999,
+                "longitude": 106.8442388
+            },
+            "top_average_popularity": 72.71428571428571,
+            "main_category": "Kafe dan Kedai Kopi"
+        },
+        {
+            "place_id": "ChIJnz3s7fXzaS4Rzm0DplVzE_o",
+            "coordinates": {
+                "latitude": -6.289407,
+                "longitude": 106.864306
+            },
+            "top_average_popularity": 72.14285714285714,
+            "main_category": "Kafe dan Kedai Kopi"
+        }
+    ]
+}
